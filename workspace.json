@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "api": "libs/api",
+    "helpers": "libs/helpers"
+  }
+}
